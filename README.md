@@ -17,11 +17,11 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Blog Preview Card Screenshot](<assets/images/Folk BLOG SS.png>)
+![Blog Preview Card Screenshot](<assets/images/Blog Preview Card SS..png>)
 
 ### Links
 
-- Live Site URL: [Live Project](http://127.0.0.1:5500/Lab-3/Folk_Blog-Preview-Card/index.html)
+- Live Site URL: [Live Project](http://127.0.0.1:5500/Mod-3/Blog-preview-card/index.html)
 
 ### Built with
 
@@ -53,6 +53,8 @@ This project helped me improve my front-end development skills in:
   border-radius: 50%;
   object-fit: cover;
 }
+```
+
   
             **Continued development**
 1. Enhancing hover and focus accessibility for keyboard users
